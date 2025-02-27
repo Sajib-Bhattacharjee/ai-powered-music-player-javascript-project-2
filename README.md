@@ -1,10 +1,10 @@
 <div align="center">
 
-## 🎵`Music Player Documentation` 🎵
+# 🎵`Music Player Documentation` 🎵
 
-## `Task Manager`
+## `Music Player`
 
-#### 🌟 **Live Preview** 🌟 → 💕 [**Task Manager**](https://jstaskmanager2025.netlify.app/) 💕
+#### 🌟 **Live Preview** 🌟 → 💕 [**Music Player**](https://musicplayer2025.netlify.app/) 💕
 
 🎉 Click to explore the fun and laughter! 😄
 
